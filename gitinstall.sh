@@ -6,3 +6,4 @@ git config --global user.name "Somebody Nobody"
 git clone https://github.com/stomplee/vagrant /git/vagrant
 git clone https://github.com/stomplee/scripts /git/scripts
 git clone https://github.com/stomplee/config /git/config
+git clone https://github.com/stomplee/ansible /git/ansible
